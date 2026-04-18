@@ -1,0 +1,12 @@
+C:\Users\remik\Downloads\expense\backend\src\main\java\com\example\expense\controller\ExpenseController.java
+C:\Users\remik\Downloads\expense\backend\src\main\java\com\example\expense\dto\CategorySummary.java
+C:\Users\remik\Downloads\expense\backend\src\main\java\com\example\expense\dto\ExpenseRequest.java
+C:\Users\remik\Downloads\expense\backend\src\main\java\com\example\expense\dto\ExpenseResponse.java
+C:\Users\remik\Downloads\expense\backend\src\main\java\com\example\expense\dto\MonthlySummaryResponse.java
+C:\Users\remik\Downloads\expense\backend\src\main\java\com\example\expense\exception\ExpenseNotFoundException.java
+C:\Users\remik\Downloads\expense\backend\src\main\java\com\example\expense\exception\RestExceptionHandler.java
+C:\Users\remik\Downloads\expense\backend\src\main\java\com\example\expense\ExpenseApplication.java
+C:\Users\remik\Downloads\expense\backend\src\main\java\com\example\expense\model\Category.java
+C:\Users\remik\Downloads\expense\backend\src\main\java\com\example\expense\model\Expense.java
+C:\Users\remik\Downloads\expense\backend\src\main\java\com\example\expense\repository\ExpenseRepository.java
+C:\Users\remik\Downloads\expense\backend\src\main\java\com\example\expense\service\ExpenseService.java

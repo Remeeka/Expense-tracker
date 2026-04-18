@@ -1,0 +1,16 @@
+com\example\expense\frontend\model\MonthlySummary.class
+com\example\expense\frontend\model\Category.class
+com\example\expense\frontend\api\ExpenseApiClient.class
+com\example\expense\frontend\ui\MainView$5.class
+com\example\expense\frontend\config\AppSettings.class
+com\example\expense\frontend\model\Expense.class
+com\example\expense\frontend\ui\MainView$2.class
+com\example\expense\frontend\api\ExpenseApiClient$1.class
+com\example\expense\frontend\ui\MainView$1.class
+com\example\expense\frontend\ui\MainView$3.class
+com\example\expense\frontend\viewmodel\ExpenseViewModel.class
+com\example\expense\frontend\ExpenseApp.class
+com\example\expense\frontend\model\CategorySummary.class
+com\example\expense\frontend\dto\ExpensePayload.class
+com\example\expense\frontend\ui\MainView.class
+com\example\expense\frontend\ui\MainView$4.class
